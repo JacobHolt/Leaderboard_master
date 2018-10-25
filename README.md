@@ -1,5 +1,8 @@
 # Leaderboard
-The leaderboard is an interactive scoreboard that displays scores of either individual assigments or totals for all students in a specified course. Below is a screenshot of what to expect when using the leaderboard.
+
+The leaderboard is an interactive scoreboard that has the capability to display scores of either individual assigments or totals for all students in a specified course. <br>
+
+Here is a screenshot of what the leaderboard looks like.
 
 ![](https://i.imgur.com/wDxun8o.png)
 
@@ -7,7 +10,7 @@ Select the course and under the <b>COLUMN</b> drop down menu on the right you wi
 
 Just below the drop down menus the course information is displayed with information on the selected course's term as well as the number of students enrolled.
 
-A bar graph is displayed for the selected course and assignment which displays students scores compared to other students Click on a specific bar to display that student's information.
+A bar graph is displayed for the selected course and assignment which displays students scores compared to other students click on a specific bar to display that student's information.
 
 # Code Example
 
